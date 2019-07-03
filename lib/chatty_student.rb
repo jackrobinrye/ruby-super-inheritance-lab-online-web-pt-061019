@@ -1,6 +1,6 @@
 require "pry"
 
-class ChattyStudent < Student 
+class ChattyStudent < Student
 
 
 end 
