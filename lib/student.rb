@@ -1,6 +1,6 @@
 require "pry"
 
-class Student 
+class Student
 
 
 end 
